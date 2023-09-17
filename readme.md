@@ -39,4 +39,4 @@ To use this script, follow the instructions below.
 
    ```bash
    python ftp_anon_checker.py -u [URL or file path]
-```
+
