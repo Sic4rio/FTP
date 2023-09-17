@@ -1,0 +1,4 @@
+paramiko==2.8.0
+colorama==0.4.4
+ftputil==4.0.1
+requests==2.26.0
